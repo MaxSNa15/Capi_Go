@@ -1,7 +1,7 @@
-# Clon de una Red Social con Go
+# Creación de un crud con Go y React
 
 ## Descripción
-Este proyecto es un clon de una red social, en la cual se pueden crear usuarios, crear publicaciones, dar likes a las publicaciones, comentar las publicaciones, seguir a otros usuarios, etc.
+Este proyecto es una aplicación web que permite crear, editar, eliminar y listar usuarios. La aplicación está desarrollada con Go y React.
 
 ## Tecnologías
 - Go
